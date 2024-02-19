@@ -1,0 +1,20 @@
+{
+  "name": "game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "yarn parcel index.html --no-autoinstall"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "excalibur": "^0.28.7",
+    "localhostjs": "^0.1.8",
+    "parcel-bundler": "^1.12.5",
+    "tsc": "^2.0.4"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
